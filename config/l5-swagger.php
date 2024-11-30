@@ -5,7 +5,7 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'Gabriel Alexander Calderón Villeda',
+                'title' => 'Julio Ismael Cerna Rodriguez',
             ],
 
             'routes' => [
